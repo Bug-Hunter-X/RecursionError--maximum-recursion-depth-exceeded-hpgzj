@@ -1,0 +1,1 @@
+This repository contains a simple example demonstrating a common Python error: RecursionError: maximum recursion depth exceeded. The `bug.py` file shows the erroneous recursive factorial function that fails for negative inputs. The solution in `bugSolution.py` demonstrates how to gracefully handle negative input by either returning an error message or raising a ValueError.
